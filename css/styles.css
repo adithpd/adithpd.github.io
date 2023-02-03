@@ -736,6 +736,15 @@ header{
     padding-bottom: 0.5rem;
 }
 
+.sixth{
+    display: block;
+    width: 75rem;
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+}
+
 .social-media{
     display: flex;
     align-items: center;
