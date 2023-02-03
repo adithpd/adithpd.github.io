@@ -3,19 +3,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&family=Roboto&display=swap');
 @font-face {
     font-family: 'Recoleta';
-    src: url('fonts/Recoleta-SemiBold.ttf');
+    src: url('fonts/Recoleta-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: 'Recoleta';
-    src: url('fonts/Recoleta-Bold.ttf');
+    src: url('fonts/Recoleta-Bold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: 'Recoleta';
-    src: url('fonts/Recoleta-Black.ttf');
+    src: url('fonts/Recoleta-Black.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
