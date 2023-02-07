@@ -70,7 +70,7 @@ body{
     color: var(--text-color)
 }
 
-a, a:visited, a:hover, a:active {
+a, a:visited{
   color: inherit;
 }
 
