@@ -146,6 +146,7 @@ header{
 
 .name{
     transition: 0.25s;
+    border-bottom: .2rem solid transparent;
 }
 
 .primary:is(:hover,:focus) .name{
