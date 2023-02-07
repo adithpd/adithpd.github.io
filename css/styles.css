@@ -74,7 +74,7 @@ a, a:visited{
   color: inherit;
 }
 
-.main4 a{
+.main4 a:visited{
     color: blue;
 }
 
