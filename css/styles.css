@@ -70,6 +70,10 @@ body{
     color: var(--text-color)
 }
 
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
 header{
     width:85rem;
     max-width: 97%;
