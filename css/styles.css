@@ -74,8 +74,12 @@ a, a:visited{
   color: inherit;
 }
 
-.main4 a:visited{
+.main4 a{
     color: blue;
+}
+
+.main4 a:visited{
+    color: #301934;
 }
 
 header{
